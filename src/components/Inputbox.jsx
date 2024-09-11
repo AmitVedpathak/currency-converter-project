@@ -18,7 +18,7 @@ function Inputbox({
       <div className="w-1/2">
         <label htmlFor={id} className="text-black/40 mb-2 inline-block">{label}</label>
         <input
-          type="number"
+          type="text"
           id={id}
           className="outline-none w-full bg-transparent py-1.5"
           placeholder="Amout"
