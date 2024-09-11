@@ -30,3 +30,13 @@ Make sure you have Node.js and npm (or yarn) installed on your machine.
    ```bash
    git clone https://github.com/AmitVedpathak/currency-converter-project.git
 
+2. Navigate to the project directory:
+
+    ```bash
+    cd currency-converter
+
+3. Install the dependencies:
+
+    ```bash
+    npm install
+
